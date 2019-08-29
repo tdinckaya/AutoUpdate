@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/atom/myProject/salon-manager-iphone-android/node_modules/react-native-auto-updater/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/atom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b0f823ac36f1fe2a3af8ce554bd0153c/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/atom/myProject/salon-manager-iphone-android/node_modules/react-native-auto-updater/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/atom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b0f823ac36f1fe2a3af8ce554bd0153c/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
